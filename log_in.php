@@ -1,8 +1,8 @@
 <?php
 
 session_start();
-if($_SERVER["REQUEST_METHOD"] == "POST")
-if(isset($_POST['log'])){
+
+if($_SERVER["REQUEST_METHOD"] == "POST"){
     
     $username=$_POST["username"];
     $password=$_POST["pass"];
