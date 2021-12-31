@@ -1,0 +1,25 @@
+body{
+    text-align: center
+}
+div.orders{
+color: aliceblue;
+background-color: rgb(26,31,31);
+    opacity: 0.8;
+    margin-top: 60px;
+    width: 1000px
+}
+.totalprice{
+    width: 101%;
+    padding-left: 110%;
+    margin-top: -70;
+    
+    
+}
+
+.items{
+    margin-top: -25
+}
+.name{
+    color: orange;
+    
+}     
